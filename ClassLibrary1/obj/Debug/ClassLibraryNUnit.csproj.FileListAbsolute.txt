@@ -1,0 +1,11 @@
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\bin\Debug\WebDriver.Support.xml
+C:\Users\BRUNO_FONTES\documents\visual studio 2015\Projects\NUnitDemo\ClassLibrary1\obj\Debug\ClassLibraryNUnit.csprojResolveAssemblyReference.cache

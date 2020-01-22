@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryNUnit", "ClassLibrary1\ClassLibraryNUnit.csproj", "{5E2AFF87-B636-42C6-B769-F2E96C4FE93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryNUnit.Tests", "NUnitTestDemo\ClassLibraryNUnit.Tests.csproj", "{2B42479D-6220-4BAF-8FEC-CA41B920858B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitSelenium", "NUnitSelenium\NUnitSelenium.csproj", "{11E87E6A-6038-49B2-872B-BA4E8058E971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2AFF87-B636-42C6-B769-F2E96C4FE93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2AFF87-B636-42C6-B769-F2E96C4FE93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2AFF87-B636-42C6-B769-F2E96C4FE93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2AFF87-B636-42C6-B769-F2E96C4FE93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B42479D-6220-4BAF-8FEC-CA41B920858B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B42479D-6220-4BAF-8FEC-CA41B920858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B42479D-6220-4BAF-8FEC-CA41B920858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B42479D-6220-4BAF-8FEC-CA41B920858B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E87E6A-6038-49B2-872B-BA4E8058E971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E87E6A-6038-49B2-872B-BA4E8058E971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E87E6A-6038-49B2-872B-BA4E8058E971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E87E6A-6038-49B2-872B-BA4E8058E971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
